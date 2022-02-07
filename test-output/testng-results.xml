@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-07T07:26:24Z" name="Suite" finished-at="2022-02-07T07:26:56Z" duration-ms="32055">
+    <groups>
+    </groups>
+    <test started-at="2022-02-07T07:26:24Z" name="Test" finished-at="2022-02-07T07:26:56Z" duration-ms="32055">
+      <class name="WebDriverManager_sample_one.WebDriverManager_sample_one.one">
+        <test-method signature="open_chrome()[pri:0, instance:WebDriverManager_sample_one.WebDriverManager_sample_one.one@48793bef]" started-at="2022-02-07T07:26:24Z" name="open_chrome" finished-at="2022-02-07T07:26:47Z" duration-ms="23469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_chrome -->
+        <test-method signature="open_firefox()[pri:0, instance:WebDriverManager_sample_one.WebDriverManager_sample_one.one@48793bef]" started-at="2022-02-07T07:26:47Z" name="open_firefox" finished-at="2022-02-07T07:26:56Z" duration-ms="8563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_firefox -->
+      </class> <!-- WebDriverManager_sample_one.WebDriverManager_sample_one.one -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
